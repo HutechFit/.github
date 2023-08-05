@@ -1,12 +1,28 @@
-## Hi there 👋
+# Hutech TechHub
 
-<!--
+## 👀 About Us
+Hutech TechHub is an organization specifically designed to host projects for the educational advancement of students at Hutech University. Our mission is to provide students with hands-on experiences, facilitate collaborative learning, and foster innovation and excellence in various technological domains.
 
-**Here are some ideas to get you started:**
+## 📝 Organization Description
+Our repositories consist of practical projects in areas such as web programming, open-source software development, and Java programming. These are all aimed at enhancing the educational experience for students, encouraging creativity, and nurturing skills that will empower them in their future careers.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 👨‍💻 Repositories List
+Here's an overview of our main repositories, each catering to specific learning objectives:
+
+### 1. HutechChocolux (Private)
+- **Description**: Web Programming Practice.
+- **Access**: Private repository, access limited to enrolled students and faculty.
+
+### 2. HutechCoffeeShop
+- **Description**: Open-Source Software Development Practice.
+- **Access**: Public repository, open for students and other collaborators.
+
+### 3. HutechBookstore
+- **Description**: JAVA PROGRAMMING Practice / J2EE PROGRAMMING.
+- **Access**: Public repository, open for students and other collaborators.
+
+## 📫 Contact
+For any academic inquiries, partnership, or collaboration opportunities within the Hutech University community, please contact us at [nd.anh@hutech.edu.vn](mailto:nd.anh@hutech.edu.vn)
+
+## License
+All our repositories are governed by specific licenses that reflect our educational goals. Please refer to each individual repository for detailed licensing information.
