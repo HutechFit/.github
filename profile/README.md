@@ -13,11 +13,11 @@ Here's an overview of our main repositories, each catering to specific learning 
 - **Description**: Web Programming Practice.
 - **Access**: Private repository, access limited to enrolled students and faculty.
 
-### 2. HutechCoffeeShop
+### 2. HutechCoffeeShop (Private)
 - **Description**: Open-Source Software Development Practice.
 - **Access**: Private repository, access limited to enrolled students and faculty.
 
-### 3. HutechBookstore
+### 3. HutechBookstore (Private)
 - **Description**: Java Programming Practice / J2EE Programming.
 - **Access**: Private repository, access limited to enrolled students and faculty.
 
