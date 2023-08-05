@@ -15,11 +15,11 @@ Here's an overview of our main repositories, each catering to specific learning 
 
 ### 2. HutechCoffeeShop
 - **Description**: Open-Source Software Development Practice.
-- **Access**: Public repository, open for students and other collaborators.
+- **Access**: Private repository, access limited to enrolled students and faculty.
 
 ### 3. HutechBookstore
-- **Description**: JAVA PROGRAMMING Practice / J2EE PROGRAMMING.
-- **Access**: Public repository, open for students and other collaborators.
+- **Description**: Java Programming Practice / J2EE Programming.
+- **Access**: Private repository, access limited to enrolled students and faculty.
 
 ## 📫 Contact
 For any academic inquiries, partnership, or collaboration opportunities within the Hutech University community, please contact us at [nd.anh@hutech.edu.vn](mailto:nd.anh@hutech.edu.vn)
