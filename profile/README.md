@@ -30,7 +30,7 @@ Here's an overview of our main repositories, each catering to specific learning 
 ## 📫 Contact
 
 <p align="justify">
-For any academic inquiries, partnership, or collaboration opportunities within the Hutech University community, please contact us at [nd.anh@hutech.edu.vn](mailto:nd.anh@hutech.edu.vn)
+For any academic inquiries, partnership, or collaboration opportunities within the Hutech University community, please contact us at <a href="mailto:nd.anh@hutech.edu.vn">nd.anh@hutech.edu.vn</a>
 </p>
 
 ## License
