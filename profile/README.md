@@ -42,4 +42,7 @@ For any academic inquiries, partnership, or collaboration opportunities within t
 </p>
 
 ## License
+
+<p align="justify">
 All our repositories are governed by specific licenses that reflect our educational goals. Please refer to each individual repository for detailed licensing information.
+</p>
