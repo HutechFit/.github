@@ -27,6 +27,10 @@ Here's an overview of our main repositories, each catering to specific learning 
 - **Description**: Java Programming Practice / J2EE Programming.
 - **Access**: Private repository, access limited to enrolled students and faculty.
 
+### 4. HutechVegetable (Private)
+- **Description**: New Programming Language.
+- **Access**: Private repository, access limited to enrolled students and faculty.
+
 ## 🧑‍🏫 Our Contributor
 
 - Nguyen Dinh Anh
